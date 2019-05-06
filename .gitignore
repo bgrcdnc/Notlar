@@ -1,2 +1,3 @@
-_copy_all.cmd
-_sync_folders.cmd
+_copy_all_to_dropbox.cmd
+_sync_dropbox_with_here.cmd
+advanced_renamer_portable/
