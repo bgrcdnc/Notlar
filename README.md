@@ -1,1 +1,1 @@
-
+Just the notes of a guy from a class

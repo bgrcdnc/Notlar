@@ -1,3 +1,5 @@
-_copy_all_to_dropbox.cmd
-_sync_dropbox_with_here.cmd
-advanced_renamer_portable/
+_*/
+misc/
+audio-books/
+books/
+uni-notes/_ignore/
