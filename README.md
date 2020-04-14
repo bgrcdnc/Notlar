@@ -4,7 +4,7 @@
 
 ## Use with caution.
 
-## [Quick access for PDF files](https://github.com/bgrcdnc/notlar/releases/tag/1.0)
+## [Quick access for all PDF files (245MB)](https://github.com/bgrcdnc/notlar/releases/tag/1.0)
 
 ## TODO List:
 - [x] Scan all notes
