@@ -14,9 +14,9 @@
 - [x] Release it in your third year
 - [ ] Organize file names
 - [ ] Make it user friendly
-- [ ] Failed: ~~Study your classes instead of creating this~~
+- [ ] _Failed:_ ~~Study your classes instead of creating this~~
 - [ ] Send the garden gnome into space
 - [ ] Sky dive to safety on Veteran
 - [ ] Participate in a drinking contest with Sam Guevenne
 - [ ] Defeat Destroyer of Worlds
-- [ ] Optional: Double check the notes at some point?
+- [ ] _Optional_: Double check the notes at some point?
