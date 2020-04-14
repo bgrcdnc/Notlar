@@ -3,9 +3,12 @@
 # The notes are _NOT_ double-checked at all.
 
 ## Use with caution.
+
 ## [Quick access for all PDF files (245MB)](https://github.com/bgrcdnc/notlar/releases/tag/1.0)
 <sub><sup><sub>or you can browse the folders and download them individually you lazy f#$@</sub><sub><sup>
-
+  
+## [Dropbox Mirror](https://www.dropbox.com/sh/siluoksnakimeqm/AAAMKxG5uKX8hv7iX_bpII7Ta?dl=0)
+  
 ## TODO List:
 - [x] Scan all notes
 - [x] Create PDFs
